@@ -1,0 +1,33 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 500px;
+    border-radius: 10px;
+  }
+  
+  .each-slide-effect span {
+    padding: 7px 10px 7px 10px;
+    font-size: 16px;
+    background: #ffffff;
+    text-align: end;
+    object-position: bottom;
+    place-self: end;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+
+  .indicator {
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    border: 1px #666 solid;
+    margin: 0;
+
+  }
+  
+  .indicator.active {
+    color: #fff;
+    background: #666;
+  }

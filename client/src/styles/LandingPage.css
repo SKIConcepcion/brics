@@ -1,0 +1,10 @@
+#diamond-btn {
+    width: 10rem;
+    height: 10rem;
+    background: #3B82F6;
+    color: white;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 5px;
+    transform: rotate(-45deg);
+}
