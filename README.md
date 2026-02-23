@@ -5,6 +5,6 @@
 - This project serves as the project for a major course about Web Programming.
 
 ### Tech Stack
-[![Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,bootstrap&perline=10)](https://skillicons.dev) <br/><br/>
+[![Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwindcss&perline=10)](https://skillicons.dev) <br/><br/>
 
 🔗 **[Click here to visit website](https://brics-alpha.vercel.app/)**
